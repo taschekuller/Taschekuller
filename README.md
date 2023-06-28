@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">A self-learner frontend developer from Turkey. Besides, open to learn backend and devops techs.</h3>
 
-- 🔭 I’m currently working on **Caseover**
+- 🔭 I’m currently working on **Oxarus Creative**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
+- 🌱 I’m currently learning **React Native, Typescript, Firebase, Next.js**
 
 - 📫 How to reach me **idogukanince@gmail.com**
 
