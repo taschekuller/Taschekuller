@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
-<h3 align="center">A self-learner frontend developer from Turkey. Besides, open to learn backend and devops techs.</h3>
+<h3 align="center">A self-learner software developer from Turkey. Besides, I'm interested in computer vision.</h3>
 
 - 🔭 I’m currently CS and CEIT student at METU
 
-- 🌱 I’m currently learning **React Native, Next.js and Node.js **
+- 🌱 I’m currently learning ** Neural Networks **
 
 - 📫 How to reach me **idogukanince@gmail.com**
 
