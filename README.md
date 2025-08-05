@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">I'm Software Developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **ML, DL, Neural Networks.**
+- 🔭 I’m currently working on **Mobile and Web Applications.**
 
-- 🌱 I’m currently learning **Numpy, Pytorch, Data Structures and Algorithm**
+- 🌱 I’m currently learning **Back-end, Gen ai, Data Structures and Algorithm**
 
 - 📫 How to reach me **idogukanince@gmail.com**
 
