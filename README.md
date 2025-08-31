@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile and Web Applications.**
 
-- 🌱 I’m currently learning **Back-end, Gen ai, Data Structures and Algorithm**
+- 🌱 I’m currently learning **Back-end, LLM, Data Structures and Algorithm**
 
 - 📫 How to reach me **idogukanince@gmail.com**
 
