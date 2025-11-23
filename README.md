@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dogukan</h1>
-<h3 align="center">I'm Software Developer from Turkey.</h3>
+<h1 align="center">Hi there 👋,</h1>
 
 - 🔭 I’m currently working on **Mobile and Web Applications.**
-
 - 🌱 I’m currently learning **Back-end, LLM, Data Structures and Algorithm**
-
 - 📫 How to reach me **idogukanince@gmail.com**
 
 ###
