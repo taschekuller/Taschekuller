@@ -6,15 +6,6 @@
 
 ###
 
-
-
-###
-
-<img align="right" height="150"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp" />
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/i-dogukan-ince" target="blank"><img align="center"
@@ -85,9 +76,19 @@
 
 </p>
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=taschekuller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150" alt="languages graph" />
+    height="150"
+    alt="languages graph"
+  />
+
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp"
+    height="150"
+    alt="side gif"
+  />
+
 </div>
 
