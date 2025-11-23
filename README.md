@@ -76,19 +76,23 @@
 
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<table>
+  <tr>
+    <td align="left">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=taschekuller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        height="150"
+        alt="languages graph"
+      />
+    </td>
+    <td align="right">
+      <img
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp"
+        height="150"
+        alt="side gif"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=taschekuller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="languages graph"
-  />
-
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp"
-    height="150"
-    alt="side gif"
-  />
-
-</div>
 
