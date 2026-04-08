@@ -91,10 +91,12 @@
     </td>
   </tr>
   <tr>
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp"
+         <td align="center">
+            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp"
         height="150"
         alt="side gif"
       />
+         </td>
   </tr>
 </table>
 
