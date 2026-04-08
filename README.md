@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on **Mobile and Web Applications.**
 - 🌱 I’m currently learning **Back-end, LLM, Data Structures and Algorithm**
+- Distributed systems & microservices architecture
 - 📫 How to reach me **idogukanince@gmail.com**
 
 ###
