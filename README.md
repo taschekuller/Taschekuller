@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="display:flex; gap:2;"> 
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
