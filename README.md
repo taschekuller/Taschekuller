@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me</h3>
 
-<p align="center">
+<div align="center" style="display:flex;gap:2;" >
   <a href="https://linkedin.com/in/i-dogukan-ince" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -31,7 +31,7 @@
       style="border-radius:10px; padding:5px; background:#161b22;"
     />
   </a>
-</p>
+</div>
 
 ---
 
