@@ -1,87 +1,62 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🔭 I’m currently working on **Mobile and Web Applications.**
-- 🌱 I’m currently learning **Back-end, LLM, Data Structures and Algorithm**
-- Distributed systems & microservices architecture
-- 📫 How to reach me **idogukanince@gmail.com**
+<p align="center">
+  Software Developer focused on building scalable mobile/web products.
+</p>
 
-###
+- 🔭 Currently working on **Mobile & Web Applications**
+- 🌱 Learning **Back-end, LMM systems, Data Structures & Algorithms**
+- ⚡ Interested in **Distributed Systems & Microservices Architecture**
+- 📫 Reach me: **idogukanince@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/i-dogukan-ince" target="blank"><img align="center"
+---
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/i-dogukan-ince" target="_blank">
+    <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="i-dogukan-ince" height="30" width="40" /></a>
-  <a href="https://kaggle.com/taschekuller" target="blank"><img align="center"
+      width="40"
+      height="40"
+      style="border-radius:10px; padding:5px; background:#161b22;"
+    />
+  </a>
+
+  <a href="https://kaggle.com/taschekuller" target="_blank">
+    <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="taschekuller" height="30" width="40" /></a>
+      width="40"
+      height="40"
+      style="border-radius:10px; padding:5px; background:#161b22;"
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex; gap:2;"> 
+---
 
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /> 
-  </a> 
+<h3 align="center">Tech Stack</h3>
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> 
-  </a>
+<p align="center">
 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" /> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" style="border-radius:8px; padding:6px;" />
 
 </p>
-
-<div>
-              <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzZ3M4azRydzJjdjdzaGNxcjUwcGwyNmk3ZTczYzd2aHgxNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IG0vkIQpuJoLvO/giphy.webp"
-        height="150"
-        alt="side gif"
-      />
-</div>
-
-
