@@ -1,18 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  Software Developer focused on building scalable mobile/web products.
+ Building something.
 </p>
 
 <dl align="center">
-  <dt>🔭 Currently Working On</dt>
-  <dd>Mobile & Web Applications</dd>
-
   <dt>🌱 Currently Learning</dt>
   <dd>Back-end, LLM Systems, Data Structures & Algorithms</dd>
-
-  <dt>⚡ Interests</dt>
-  <dd>Distributed Systems & Microservices Architecture</dd>
 
   <dt>📫 Contact</dt>
   <dd><strong>idogukanince@gmail.com</strong></dd>
@@ -52,18 +46,9 @@
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" width="45"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/></td>
   </tr>
 </table>
